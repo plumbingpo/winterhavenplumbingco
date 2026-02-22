@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winterhavenplumbingco.com/sitemap.xml
